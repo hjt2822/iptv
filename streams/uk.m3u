@@ -129,21 +129,18 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA8America.uk",MTA8 America (1080p)
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVGlobal.uk",MTV Global (576p)
-#EXTVLCOPT:http-referrer=http://37.18.239.36:8888/
-http://37.18.239.36:8888/MTV_Adria/index.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk",MUTV (720p)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="",n TV (US Eastern) (720p) [Not 24/7]
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
-#EXTINF:-1 tvg-id="NollyAfrica.uk",Nolly Africa (1080p)
-https://edge-i.evrideo.tv/8808fff1-2262-4c92-8cf4-359adbb692ca_1000026794_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="NickJr.uk",Nick Jr. UK (1080p)
 https://d20opqftbkv2z0.cloudfront.net/live13/nickjr/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.uk",Nickelodeon UK (1080p)
 https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.uk",NickToons UK (576p)
 https://d20opqftbkv2z0.cloudfront.net/live13/nicktoons/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-id="NollyAfrica.uk",Nolly Africa (1080p)
+https://edge-i.evrideo.tv/8808fff1-2262-4c92-8cf4-359adbb692ca_1000026794_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="NoorTV.uk",Noor TV (480p) [Not 24/7]
 http://45.76.186.114:8080/hls/noortv.m3u8
 #EXTINF:-1 tvg-id="NoorTV.uk",Noor TV (480p) [Not 24/7]
